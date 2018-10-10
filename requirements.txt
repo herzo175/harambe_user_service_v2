@@ -1,0 +1,4 @@
+graphene
+gunicorn
+flask
+dotenv
